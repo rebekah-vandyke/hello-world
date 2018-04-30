@@ -9,5 +9,7 @@ package pcc.cis.helloworld;
 public class helloWorld {
     public void main() {
         System.out.println("Hello World");
+        System.out.println("");
+        System.out.println("Goodbye cruel World");
     }
 }
